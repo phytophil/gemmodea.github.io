@@ -26,7 +26,6 @@ Belair 1957.
 # Des robots de type «crawler» ont envahi nos rues!
 
 _medium: Photoshop_
-
 ![alt text](https://github.com/phytophil/gemmodea.github.io/blob/gh-pages/images/buick-photo-4.jpg)
 
 _crédit photo d'origine: unsplash, libre de droit_
