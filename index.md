@@ -25,6 +25,8 @@ Belair 1957.
 
 # Des robots de type «crawler» ont envahi nos rues!
 
+![alt text](https://github.com/phytophil/gemmodea.github.io/blob/gh-pages/images/buick-photo-4.jpg)
+
 Rien ne semblait présager qu'un tel fléau s'abatterait soudainement sur cette ville.
 
 # Une Buick Belair 1957 pourchassée sur un Hollywood Boulevard utopique!
