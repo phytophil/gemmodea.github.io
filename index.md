@@ -32,6 +32,7 @@ Rien ne semblait présager qu'un tel fléau s'abatterait soudainement sur cette 
 # Une Buick Belair 1957 pourchassée sur un Hollywood Boulevard utopique!
 
 _medium: Clip Studio Paint_
+![alt text](https://github.com/phytophil/gemmodea.github.io/blob/gh-pages/images/chevy-1000.jpg)
 
 ## Welcome to GitHub Pages
 
