@@ -31,7 +31,7 @@ _medium: Photoshop_
 
 _crédit photo d'origine: unsplash, libre de droit_
 
-Rien ne semblait présager qu'un tel fléau s'abatterait soudainement sur cette ville.
+Rien ne semblait présager qu'un tel fléau s'abattrait soudainement sur cette ville.
 
 # Une Buick Belair 1957 pourchassée sur un Hollywood Boulevard utopique!
 
