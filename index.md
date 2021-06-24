@@ -1,8 +1,8 @@
-#Projet Gemmodea
+# Projet Gemmodea
 
 _(AVIS: cette page est une maquette GitHub qui sera détaillée ultérieurement avec un thème Jekyll)_
 
-##Bienvenue sur Gemmodea!
+## Bienvenue sur Gemmodea!
 _La page GitHub de Phytophil_
 
 (english) The purpose of this project is to translate any design 
@@ -23,11 +23,11 @@ Plus concrètement, ceci est ma page GitHub de présentation sur
 le thème illustré des robots et de la classique Buick 
 Belair 1957.
 
-#Des robots de type «crawler» ont envahi nos rues!
+# Des robots de type «crawler» ont envahi nos rues!
 
 Rien ne semblait présager qu'un tel fléau s'abatterait soudainement sur cette ville.
 
-#Une Buick Belair 1957 pourchassée sur un Hollywood Boulevard utopique!
+# Une Buick Belair 1957 pourchassée sur un Hollywood Boulevard utopique!
 
 _medium: Clip Studio Paint_
 
